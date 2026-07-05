@@ -28,10 +28,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/Md-faisal78/Leetcode_sol/tree/master/0001-two-sum) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Md-faisal78/Leetcode_sol/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Md-faisal78/Leetcode_sol/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0217-contains-duplicate](https://github.com/Md-faisal78/Leetcode_sol/tree/master/0217-contains-duplicate) |
 ## Hash Table
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Md-faisal78/Leetcode_sol/tree/master/0001-two-sum) |
+| [0217-contains-duplicate](https://github.com/Md-faisal78/Leetcode_sol/tree/master/0217-contains-duplicate) |
 ## Binary Search
 |  |
 | ------- |
@@ -40,4 +42,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Md-faisal78/Leetcode_sol/tree/master/0121-best-time-to-buy-and-sell-stock) |
+## Sorting
+|  |
+| ------- |
+| [0217-contains-duplicate](https://github.com/Md-faisal78/Leetcode_sol/tree/master/0217-contains-duplicate) |
 <!---LeetCode Topics End-->
