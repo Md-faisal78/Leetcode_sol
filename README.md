@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/Md-faisal78/Leetcode_sol/tree/master/0009-palindrome-number) |
+| [0371-sum-of-two-integers](https://github.com/Md-faisal78/Leetcode_sol/tree/master/0371-sum-of-two-integers) |
 ## Array
 |  |
 | ------- |
@@ -57,4 +58,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/Md-faisal78/Leetcode_sol/tree/master/0053-maximum-subarray) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0371-sum-of-two-integers](https://github.com/Md-faisal78/Leetcode_sol/tree/master/0371-sum-of-two-integers) |
 <!---LeetCode Topics End-->
