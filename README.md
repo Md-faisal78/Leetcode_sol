@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/Md-faisal78/Leetcode_sol/tree/master/0013-roman-to-integer) |
+| [0014-longest-common-prefix](https://github.com/Md-faisal78/Leetcode_sol/tree/master/0014-longest-common-prefix) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Md-faisal78/Leetcode_sol/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0125-valid-palindrome](https://github.com/Md-faisal78/Leetcode_sol/tree/master/0125-valid-palindrome) |
 | [0680-valid-palindrome-ii](https://github.com/Md-faisal78/Leetcode_sol/tree/master/0680-valid-palindrome-ii) |
@@ -32,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Md-faisal78/Leetcode_sol/tree/master/0001-two-sum) |
+| [0014-longest-common-prefix](https://github.com/Md-faisal78/Leetcode_sol/tree/master/0014-longest-common-prefix) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Md-faisal78/Leetcode_sol/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0053-maximum-subarray](https://github.com/Md-faisal78/Leetcode_sol/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Md-faisal78/Leetcode_sol/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -73,4 +75,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Md-faisal78/Leetcode_sol/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/Md-faisal78/Leetcode_sol/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
