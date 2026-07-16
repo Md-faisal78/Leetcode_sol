@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0009-palindrome-number](https://github.com/Md-faisal78/Leetcode_sol/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/Md-faisal78/Leetcode_sol/tree/master/0013-roman-to-integer) |
+| [0268-missing-number](https://github.com/Md-faisal78/Leetcode_sol/tree/master/0268-missing-number) |
 | [0371-sum-of-two-integers](https://github.com/Md-faisal78/Leetcode_sol/tree/master/0371-sum-of-two-integers) |
 ## Array
 |  |
@@ -43,18 +44,21 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Md-faisal78/Leetcode_sol/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0217-contains-duplicate](https://github.com/Md-faisal78/Leetcode_sol/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/Md-faisal78/Leetcode_sol/tree/master/0238-product-of-array-except-self) |
+| [0268-missing-number](https://github.com/Md-faisal78/Leetcode_sol/tree/master/0268-missing-number) |
 ## Hash Table
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Md-faisal78/Leetcode_sol/tree/master/0001-two-sum) |
 | [0013-roman-to-integer](https://github.com/Md-faisal78/Leetcode_sol/tree/master/0013-roman-to-integer) |
 | [0217-contains-duplicate](https://github.com/Md-faisal78/Leetcode_sol/tree/master/0217-contains-duplicate) |
+| [0268-missing-number](https://github.com/Md-faisal78/Leetcode_sol/tree/master/0268-missing-number) |
 ## Binary Search
 |  |
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/Md-faisal78/Leetcode_sol/tree/master/0033-search-in-rotated-sorted-array) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Md-faisal78/Leetcode_sol/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Md-faisal78/Leetcode_sol/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0268-missing-number](https://github.com/Md-faisal78/Leetcode_sol/tree/master/0268-missing-number) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -66,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0217-contains-duplicate](https://github.com/Md-faisal78/Leetcode_sol/tree/master/0217-contains-duplicate) |
+| [0268-missing-number](https://github.com/Md-faisal78/Leetcode_sol/tree/master/0268-missing-number) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -79,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0191-number-of-1-bits](https://github.com/Md-faisal78/Leetcode_sol/tree/master/0191-number-of-1-bits) |
+| [0268-missing-number](https://github.com/Md-faisal78/Leetcode_sol/tree/master/0268-missing-number) |
 | [0338-counting-bits](https://github.com/Md-faisal78/Leetcode_sol/tree/master/0338-counting-bits) |
 | [0371-sum-of-two-integers](https://github.com/Md-faisal78/Leetcode_sol/tree/master/0371-sum-of-two-integers) |
 ## String Matching
