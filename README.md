@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/Md-faisal78/Leetcode_sol/tree/master/0014-longest-common-prefix) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Md-faisal78/Leetcode_sol/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0125-valid-palindrome](https://github.com/Md-faisal78/Leetcode_sol/tree/master/0125-valid-palindrome) |
+| [0139-word-break](https://github.com/Md-faisal78/Leetcode_sol/tree/master/0139-word-break) |
 | [0680-valid-palindrome-ii](https://github.com/Md-faisal78/Leetcode_sol/tree/master/0680-valid-palindrome-ii) |
 ## Greedy
 |  |
@@ -40,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0033-search-in-rotated-sorted-array](https://github.com/Md-faisal78/Leetcode_sol/tree/master/0033-search-in-rotated-sorted-array) |
 | [0053-maximum-subarray](https://github.com/Md-faisal78/Leetcode_sol/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Md-faisal78/Leetcode_sol/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0139-word-break](https://github.com/Md-faisal78/Leetcode_sol/tree/master/0139-word-break) |
 | [0152-maximum-product-subarray](https://github.com/Md-faisal78/Leetcode_sol/tree/master/0152-maximum-product-subarray) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Md-faisal78/Leetcode_sol/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Md-faisal78/Leetcode_sol/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -51,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/Md-faisal78/Leetcode_sol/tree/master/0001-two-sum) |
 | [0013-roman-to-integer](https://github.com/Md-faisal78/Leetcode_sol/tree/master/0013-roman-to-integer) |
+| [0139-word-break](https://github.com/Md-faisal78/Leetcode_sol/tree/master/0139-word-break) |
 | [0217-contains-duplicate](https://github.com/Md-faisal78/Leetcode_sol/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/Md-faisal78/Leetcode_sol/tree/master/0268-missing-number) |
 ## Binary Search
@@ -66,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/Md-faisal78/Leetcode_sol/tree/master/0053-maximum-subarray) |
 | [0070-climbing-stairs](https://github.com/Md-faisal78/Leetcode_sol/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Md-faisal78/Leetcode_sol/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0139-word-break](https://github.com/Md-faisal78/Leetcode_sol/tree/master/0139-word-break) |
 | [0152-maximum-product-subarray](https://github.com/Md-faisal78/Leetcode_sol/tree/master/0152-maximum-product-subarray) |
 | [0338-counting-bits](https://github.com/Md-faisal78/Leetcode_sol/tree/master/0338-counting-bits) |
 ## Sorting
@@ -99,8 +103,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/Md-faisal78/Leetcode_sol/tree/master/0014-longest-common-prefix) |
+| [0139-word-break](https://github.com/Md-faisal78/Leetcode_sol/tree/master/0139-word-break) |
 ## Memoization
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/Md-faisal78/Leetcode_sol/tree/master/0070-climbing-stairs) |
+| [0139-word-break](https://github.com/Md-faisal78/Leetcode_sol/tree/master/0139-word-break) |
 <!---LeetCode Topics End-->
