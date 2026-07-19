@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0322-coin-change](https://github.com/Md-faisal78/Leetcode_sol/tree/master/0322-coin-change) |
 | [1470-shuffle-the-array](https://github.com/Md-faisal78/Leetcode_sol/tree/master/1470-shuffle-the-array) |
 | [1480-running-sum-of-1d-array](https://github.com/Md-faisal78/Leetcode_sol/tree/master/1480-running-sum-of-1d-array) |
+| [1672-richest-customer-wealth](https://github.com/Md-faisal78/Leetcode_sol/tree/master/1672-richest-customer-wealth) |
 | [1929-concatenation-of-array](https://github.com/Md-faisal78/Leetcode_sol/tree/master/1929-concatenation-of-array) |
 ## Hash Table
 |  |
@@ -123,4 +124,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1929-concatenation-of-array](https://github.com/Md-faisal78/Leetcode_sol/tree/master/1929-concatenation-of-array) |
+## Matrix
+|  |
+| ------- |
+| [1672-richest-customer-wealth](https://github.com/Md-faisal78/Leetcode_sol/tree/master/1672-richest-customer-wealth) |
 <!---LeetCode Topics End-->
