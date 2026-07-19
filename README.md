@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/Md-faisal78/Leetcode_sol/tree/master/0238-product-of-array-except-self) |
 | [0268-missing-number](https://github.com/Md-faisal78/Leetcode_sol/tree/master/0268-missing-number) |
 | [0322-coin-change](https://github.com/Md-faisal78/Leetcode_sol/tree/master/0322-coin-change) |
+| [1480-running-sum-of-1d-array](https://github.com/Md-faisal78/Leetcode_sol/tree/master/1480-running-sum-of-1d-array) |
 | [1929-concatenation-of-array](https://github.com/Md-faisal78/Leetcode_sol/tree/master/1929-concatenation-of-array) |
 ## Hash Table
 |  |
@@ -84,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/Md-faisal78/Leetcode_sol/tree/master/0238-product-of-array-except-self) |
+| [1480-running-sum-of-1d-array](https://github.com/Md-faisal78/Leetcode_sol/tree/master/1480-running-sum-of-1d-array) |
 ## Divide and Conquer
 |  |
 | ------- |
