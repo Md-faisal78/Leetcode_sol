@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Md-faisal78/Leetcode_sol/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Md-faisal78/Leetcode_sol/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0088-merge-sorted-array](https://github.com/Md-faisal78/Leetcode_sol/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/Md-faisal78/Leetcode_sol/tree/master/0125-valid-palindrome) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Md-faisal78/Leetcode_sol/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0680-valid-palindrome-ii](https://github.com/Md-faisal78/Leetcode_sol/tree/master/0680-valid-palindrome-ii) |
@@ -40,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Md-faisal78/Leetcode_sol/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0033-search-in-rotated-sorted-array](https://github.com/Md-faisal78/Leetcode_sol/tree/master/0033-search-in-rotated-sorted-array) |
 | [0053-maximum-subarray](https://github.com/Md-faisal78/Leetcode_sol/tree/master/0053-maximum-subarray) |
+| [0088-merge-sorted-array](https://github.com/Md-faisal78/Leetcode_sol/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Md-faisal78/Leetcode_sol/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0139-word-break](https://github.com/Md-faisal78/Leetcode_sol/tree/master/0139-word-break) |
 | [0152-maximum-product-subarray](https://github.com/Md-faisal78/Leetcode_sol/tree/master/0152-maximum-product-subarray) |
@@ -81,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0088-merge-sorted-array](https://github.com/Md-faisal78/Leetcode_sol/tree/master/0088-merge-sorted-array) |
 | [0217-contains-duplicate](https://github.com/Md-faisal78/Leetcode_sol/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/Md-faisal78/Leetcode_sol/tree/master/0268-missing-number) |
 ## Prefix Sum
